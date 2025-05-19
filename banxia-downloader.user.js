@@ -9,6 +9,7 @@
 // @license      MIT
 // @homepage     https://github.com/LuongVu2112
 // @supportURL   https://github.com/LuongVu2112/issues
+// @require      https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js
 // @grant        none
 // ==/UserScript==
 
